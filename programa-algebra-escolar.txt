@@ -1,1 +1,6 @@
 Este es el programa para el algebra escolar
+
+0. operaciones con polinomios
+0.1 suma de polinomios
+0.2 resta de polinomios
+0.3 multiplicacion de polinomios
